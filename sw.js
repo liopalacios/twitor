@@ -4,7 +4,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTA_CACHE  = 'inmuta-v1';
 
 const APP_SCHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
